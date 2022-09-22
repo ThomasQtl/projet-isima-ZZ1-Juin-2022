@@ -18,7 +18,7 @@ Ne pas oublier le --recursive lors du clone car le site web accompagnant le proj
 ![imageArborescence](/Doc/ArbreProjet.png)
 
 ### Suivi du projet
-Le **site internet** du projet est disponible [ici]((https://perso.isima.fr/~thquentel/Francais/projetZZ1/AccueilProjet.html)).<br/>
+Le **site internet** du projet est disponible [ici](https://perso.isima.fr/~thquentel/Francais/projetZZ1/AccueilProjet.html).<br/>
 <br/>
 **Planning prévisionnel:**
 ![imagePlanningPrevisionnel](/Doc/planning_previsionnel.png)
