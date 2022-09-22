@@ -18,7 +18,7 @@ Ne pas oublier le --recursive lors du clone car le site web accompagnant le proj
 ![imageArborescence](/Doc/ArbreProjet.png)
 
 ### Suivi du projet
-Le **site internet** du projet est disponible [ici](https://perso.isima.fr/~thquentel/index.html).<br/>
+Le **site internet** du projet est disponible [ici]([https://perso.isima.fr/~thquentel/index.html](https://perso.isima.fr/~thquentel/Francais/projetZZ1/AccueilProjet.html)).<br/>
 <br/>
 **Planning prévisionnel:**
 ![imagePlanningPrevisionnel](/Doc/planning_previsionnel.png)
@@ -32,14 +32,14 @@ Le **site internet** du projet est disponible [ici](https://perso.isima.fr/~thqu
 Le principe est de développer le célèbre jeu de Conway avec fenêtre graphique.<br/>
 Le README.md du jeu de la vie est disponible [ici](/JeuxDeLaVie/README.md).<br/>
 
-La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/JeuDeLaVie.html).<br/>
+La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/Francais/projetZZ1/JeuDeLaVie.html).<br/>
 
 ### Le Chef d'oeuvre
 Le but est de créer un jeu d'arcade avec une partie graphique et implémentant un chaînage de Markov.<br/>
 Notre réalisation est un space shooter où l'on doit défendre notre zone à l'aide de notre vaisseau spatial.<br/>
 On peut tirer sur des ovnis, leurs déplacements sont dirigés aléatoirement grâce à des chaînes de Markov.<br/>
 
-La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/ChefOeuvre.html).<br/>
+La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/Francais/projetZZ1/ChefOeuvre.html).<br/>
 
 
 # Deuxième semaine:
@@ -47,4 +47,4 @@ La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/
 Lors de la 2ème semaine, nous avons conçu un petit jeu de foot où deux IA doivent s'affronter.<br />
 Les IA ont été entraîné en utilisant un apprentissage par renforcement à l'aide de l'algorithme du Q-Learning avec l'algorithme 'preference learning base' pour le choix des actions à effectuer.<br />
 
-La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/ProjetFinal.html).<br/>
+La visualisation est disponible sur le [site](https://perso.isima.fr/~thquentel/Francais/projetZZ1/ProjetFinal.html).<br/>
